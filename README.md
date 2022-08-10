@@ -4,5 +4,6 @@ This is the main repository for all of the projects I will complete in a span of
 Start date: August 9
 End Date: ____
 
+## Projects Description and Completion Date
 Day 1: Expanding Cards | August 9, 2022
 
